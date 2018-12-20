@@ -1,0 +1,17 @@
+{
+  "name": "bugsnag-expo-sourcemaps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bugsnag-sourcemaps": "^1.0.7",
+    "mkdirp": "^0.5.1",
+    "rimraf": "^2.6.2"
+  }
+}
